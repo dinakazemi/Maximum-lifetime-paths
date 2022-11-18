@@ -5,6 +5,9 @@ Let $G=(V, E)G=(V,E)$ be an undirected graph where each edge e in $e∈E$ has li
 
 this project implements a polynomial time algorithm for finding the maximum lifetime path between two given nodes.
 
+## How to run the program?
+run `python3 range_size_tree.py` in your terminal for the algorithm to start.
+
 ## Class Structure
 - `Edge` - The edge class, takes two vertices and provides the lifetime between them.
     - `get_a()` - Returns vertex A of the edge.
